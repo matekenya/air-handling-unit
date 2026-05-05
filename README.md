@@ -13,7 +13,7 @@ One of the major components of the AHU is the HRU, which is used to reduce energ
 
 To measure the efficiency of the HRU, five temperature sensors are installed in the AHU, measuring the temperature of circulating air at different points in the system. In addition to sensor data, HRU control state, supply fan speed, and extract fan speed are also collected from the system. (M. Madhikermi et al.)
 
-<img src="image-1.png" alt="AHU System Diagram" width="800">
+![image-1.png](https://github.com/matekenya/air-handling-unit/blob/main/img/image-1.png)
 
 *Fig. 1 — AHU system overview with balanced ventilation* (M. Madhikermi et al.)
 
