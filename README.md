@@ -11,7 +11,7 @@ Fresh air supply and exhaust vents can be installed in every room, but this syst
 One of the major components of the AHU is the HRU, which is used to reduce energy consumption. The principle behind the HRU is to extract heat from the outgoing air (before it is expelled as waste air) and utilise it to pre-heat fresh incoming air. The HRU is therefore a fundamental component of the AHU that enables heat recycling.
 
 
-To measure the efficiency of the HRU, five temperature sensors are installed in the AHU, measuring the temperature of circulating air at different points in the system (detailed in *Table 1*). In addition to sensor data, HRU control state, supply fan speed, and extract fan speed are also collected from the system. (M. Madhikermi et al.)
+To measure the efficiency of the HRU, five temperature sensors are installed in the AHU, measuring the temperature of circulating air at different points in the system. In addition to sensor data, HRU control state, supply fan speed, and extract fan speed are also collected from the system. (M. Madhikermi et al.)
 
 <img src="image-1.png" alt="AHU System Diagram" width="800">
 
